@@ -34,7 +34,7 @@ TrifectaDB's lightweight nature and versatility make it suitable for a wide rang
 
 ## Getting Started
 
-To get started with TrifectaDB, please refer to the official documentation availabe in the software for installation instructions, API reference, and code samples in various programming languages.
+To get started with TrifectaDB, please refer to the [official documentation](https://github.com/Ojas1024/i7api/wiki/TrifectaDB-wiki) availabe in the software for installation instructions, API reference, and code samples in various programming languages.
 
 ## Contributing
 
