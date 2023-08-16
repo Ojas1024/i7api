@@ -7,6 +7,7 @@
 
 [**TrifectaDB**](https://github.com/Ojas1024/i7api/tree/main/TrifectaDB)
 > 1. [Windows Binaries](https://github.com/Ojas1024/i7api/releases/download/v0.0.1/TrifectaDB.exe)
+> 2. [Linux Binaries](https://github.com/Ojas1024/i7api/releases/download/v0.0.1/TrifectaDB-linux)
 
 
 [**i7StorageEngine**](https://github.com/Ojas1024/i7API/tree/main/i7Storage)
