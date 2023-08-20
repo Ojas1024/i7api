@@ -10,6 +10,7 @@ Any language, supporting HTTP requests can be used for API purposes
 * [Pre-requisites](#Pre-requisites)
 * [Authentication Operations](#Authentication-Operations)
 * [Tree Operations](#Tree-Operations)
+  * [Branch Operations](#Branch-Operations)
   * [Leaf Operations](#Leaf-Operations)
   * [Fruit Operations](#Fruit-Operations)
   * [Flower Operations](#Flower-Operations)
