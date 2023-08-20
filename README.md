@@ -6,8 +6,9 @@
 ## Projects: 
 
 [**TrifectaDB**](https://github.com/Ojas1024/i7api/tree/main/TrifectaDB)
-> 1. [Windows Binaries]
-> 2. [Linux Binaries]
+> 1. [Windows Binaries](mailto:dev.i7apps@gmail.com)
+> 2. [Linux Binaries](mailto:dev.i7apps@gmail.com)
+
 As TrifectaDB is in Alpha phase, we allow only specific users to use it. If you want to use it, [contact us](mailto:dev.i7apps@gmail.com)
 
 [**i7StorageEngine**](https://github.com/Ojas1024/i7API/tree/main/i7Storage)
