@@ -281,5 +281,6 @@ Returns ```{"success":"true", "b64": "...BASE 64 STRING..."}``` or ```{"error": 
 <br>
 
 
-
+## Try Them
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/Ojas1024/i7api/)
 
