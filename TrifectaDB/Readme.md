@@ -1,6 +1,6 @@
 # TrifectaDB - Multiplatform, Multilanguage Support, Lightweight Database
 
-TrifectaDB is a lightweight and versatile database system that combines the power of SQL, NoSQL, and a storage system, making it a comprehensive solution for a wide range of data storage and retrieval needs. This database is designed to provide developers with a flexible and efficient platform for managing structured and unstructured data across various platforms and programming languages. TrifectaDB is available for **free**, empowering developers with an accessible and powerful database solution that doesn't weigh down your applications.
+TrifectaDB is a lightweight and versatile database system that combines the power of SQL, NoSQL, and a storage system, making it a comprehensive solution for a wide range of data storage and retrieval needs. This database is designed to provide developers with a flexible and efficient platform for managing structured and unstructured data across various platforms and programming languages. TrifectaDB is available, empowering developers with an accessible and powerful database solution that doesn't weigh down your applications.
 
 ## Features
 
@@ -34,7 +34,7 @@ TrifectaDB's lightweight nature and versatility make it suitable for a wide rang
 
 ## Getting Started
 
-To get started with TrifectaDB, please refer to the [official documentation](https://github.com/Ojas1024/i7api/wiki/TrifectaDB-wiki) availabe in the software for installation instructions, API reference, and code samples in various programming languages.
+To get started with TrifectaDB, please refer to the official documentation availabe in the software for installation instructions, API reference, and code samples in various programming languages.
 
 ## Contributing
 
@@ -43,3 +43,10 @@ We welcome contributions from the open-source community. If you're interested in
 ## License
 
 TrifectaDB is released under the [GNU LPGL License](LICENSE).
+
+## Downloads:
+
+As TrifectaDB is in Alpha phase, we allow only specific users to use. If you want to use it, you can [contact us](mailto:dev.i7apps@gmail.com)
+
+
+**Full Changelog**: https://github.com/Ojas1024/i7api/commits/v0.0.1
